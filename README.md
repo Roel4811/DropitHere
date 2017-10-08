@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# DropitHere
+storage app using Rails and React
+>>>>>>> 756d60f7641171921f7a3a935b3cb25eca3352c3
